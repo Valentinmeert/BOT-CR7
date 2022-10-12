@@ -1,0 +1,19 @@
+{
+  "name": "botcr7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lrf",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/voice": "^0.11.0",
+    "discord-music-player": "^9.1.1",
+    "discord.js": "^14.5.0",
+    "ffmpeg-static": "^5.1.0",
+    "fs": "^0.0.1-security"
+  }
+}
